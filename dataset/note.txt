@@ -1,0 +1,4 @@
+Tokenizer 模型以及 MindRecord 数据集请至以下链接下载
+https://box.nju.edu.cn/d/6e04f6f7f72e4c4a9a25/
+
+请注意，这里的 Tokenizer 和 MindRecord 都仅包含一个小说的数据。请同学们尽量重新训练 Tokenizer 和预处理数据集。
